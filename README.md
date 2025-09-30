@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-prasad&theme=radical" alt="Shivam's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasrin-parween&theme=radical" alt="Yasri's streak" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
   <a href="https://https://www.linkedin.com/in/yasrin-parween-5855b425b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://https://github.com/yasrinparweenr">
+  <a href="https://https://github.com/yasrinparween">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
