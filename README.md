@@ -1,11 +1,11 @@
 <!-- Visitor Counter (small, top-right) -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shivam-prasad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="visitor badge"/>  
+  <img src="https://komarev.com/ghpvc/?username=yasrinparween&label=Profile%20Views&color=0e75b6&style=flat-square" alt="visitor badge"/>  
 </p>
 
 <!-- Typing SVG Intro -->
 <p align="center">
-  <a href="https://github.com/shivam-prasad">
+  <a href="https://github.com/yasrinparween">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shivam+Prasad+👋;Java+Full+Stack+Developer+💻;DSA+%7C+Web+Dev+%7C+DevOps+⚡;Passionate+about+Building+Projects+🚀">
   </a>
 </p>
