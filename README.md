@@ -21,6 +21,16 @@
 
 ---
 
+## 🌟 Badges  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-green?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/IBM-Big%20Data%20Foundation-blue?style=for-the-badge&logo=ibm" />
+  <img src="https://img.shields.io/badge/Infosys-Springboard-orange?style=for-the-badge&logo=infosys" />
+</p>
+
+---
+
 ## 🚀 Tech Stack  
 
 <p align="center">
